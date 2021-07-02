@@ -3,17 +3,15 @@ title: AlricGalindez Arqs.
 date: 2021-07-02 18:24:00 Z
 Images:
 - Fullwidth-image: "/uploads/Alric-Galindez-Identity%201920x1080.jpg"
-- Image: "/uploads/Alric-Website-Animation01.gif"
-- Half-left-image: "/uploads/Alric%20Galindez%20Arqs%20mobile%20001-b807e6.jpg"
+- Half-Image-left: 
+  Half-image-right: 
+  Image: "/uploads/AlricGalindez-Website.gif"
+- Image: 
+  Half-left-image: "/uploads/Alric%20Galindez%20Arqs%20mobile%20001-b807e6.jpg"
   Half-right-image: "/uploads/Alric%20Galindez%20Arqs%20mobile%20002-dd5022.jpg"
-- Image: "/uploads/Artboard-2a.jpg"
-- Image: "/uploads/Artboard-2b.jpg"
-- Image: "/uploads/Artboard-2c.jpg"
-- Image: "/uploads/Artboard-2d.jpg"
+- Image: "/uploads/AlricGalindez-Website-internal.gif"
 - Image: "/uploads/Artboard-3a.jpg"
 - Image: "/uploads/Artboard-3b.jpg"
-- Fullwidth-image: "/uploads/Artboard-04.jpg"
-- Fullwidth-image: "/uploads/Artboard-05.jpg"
 Expertise:
 - Skill: |-
     Brand Identity
