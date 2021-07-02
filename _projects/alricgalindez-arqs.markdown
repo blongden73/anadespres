@@ -4,11 +4,7 @@ date: 2021-07-02 18:24:00 Z
 Images:
 - Fullwidth-image: "/uploads/Alric-Galindez-Identity%201920x1080.jpg"
 Project Description:
-- Fullwidth-image: 
-- Half-Image-left: 
-  Half-image-right: 
-- Image: 
-- Image: 
+- Half-image-left: 
 Expertise:
 - Skill: |-
     Brand Identity
