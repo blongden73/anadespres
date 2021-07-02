@@ -8,15 +8,15 @@ collections:
   projects:
     title: Projects
     output: true
-    Cover Image: "/uploads/NL-big-images-01-f7ac58.jpg"
+    Cover Image:
     Images:
     - Fullwidth-image:
     - Half-Image-left:
       Half-image-right:
-    - Image: "/uploads/NL-postcards-24.jpg"
+    - Image:
     Project Description:
     Expertise:
-    - Skill: 
+    - Skill:
   uploads:
     title: Uploads
     output: true
