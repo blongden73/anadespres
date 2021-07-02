@@ -5,12 +5,13 @@
 
   <body class="{{page.title | slugify | downcase}} {{page.layout | slugify | downcase}}">
 
-    {% include header.html %}
+    <div class="ad-wrapper">
+      {% include header.html %}
 
-        {{ content }}
+          {{ content }}
 
-    {% include footer.html %}
-
+      {% include footer.html %}
+    </div>
   </body>
 
 </html>

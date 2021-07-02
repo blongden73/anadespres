@@ -9,16 +9,15 @@ Images:
 - Half-image-left: "/uploads/Nicolas%20Laisne%20(port)-13.jpg"
   Half-image-right: "/uploads/Nicolas%20Laisne%20(port)-15.jpg"
 - Image: "/uploads/NL-postcards-24.jpg"
-- Fullwidth-image: 
-  Image: 
-  Half-image: 
-- Fullwidth-image: 
-  Image: 
-  Half-image: 
-Project Description: 
+- Fullwidth-image:
+  Image:
+  Half-image:
+- Fullwidth-image:
+  Image:
+  Half-image:
+Project Description:
 Expertise:
-- Skill: 
+- Skill:
 ---
 
 Branding and identity for Nicolas Laisné Studio, a French architect studio that's quickly gaining international renown. The website and the visual identity evolved as the brand moved from a boutique studio to a global architects firm. 
-
