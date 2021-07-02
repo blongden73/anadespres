@@ -6,6 +6,15 @@ Images:
 - Fullwidth-image: "/uploads/Madyfit-cover-image.jpg"
 - Image: 
 - Image: 
+- Image: 
+- Image: 
+- Image: 
+- Image: 
+- Image: 
+- Image: 
+- Half-left-image: "/uploads/Mady%20Stripes%201.jpg"
+  Half-right-image: "/uploads/Mady%20Stripes%202.jpg"
+- Image: "/uploads/Madyfit-Street-Poster.jpg"
 - Half-left-image: "/uploads/Madyfit%20bandas%201.jpg"
   Half-right-image: "/uploads/Madyfit%20bandas%202.jpg"
 Expertise:
