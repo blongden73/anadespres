@@ -4,9 +4,10 @@ date: 2021-05-07 18:07:00 Z
 Cover Image: "/uploads/NL-big-images-01-f7ac58.jpg"
 Images:
 - Fullwidth-image: "/uploads/NL-Brochure.jpg"
-- Half-Image: "/uploads/Nicolas%20Laisne%20(port)-09.jpg"
-  Half-image: "/uploads/Nicolas%20Laisne%20(port)-08.jpg"
-- Half-image: "/uploads/Nicolas%20Laisne%20(port)-15.jpg"
+- Half-Image-left: "/uploads/Nicolas%20Laisne%20(port)-09.jpg"
+  Half-image-right: "/uploads/Nicolas%20Laisne%20(port)-08.jpg"
+- Half-image-left: "/uploads/Nicolas%20Laisne%20(port)-13.jpg"
+  Half-image-right: "/uploads/Nicolas%20Laisne%20(port)-15.jpg"
 - Image: "/uploads/NL-postcards-24.jpg"
 - Fullwidth-image: 
   Image: 
