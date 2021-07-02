@@ -2,6 +2,8 @@
 title: Madifyt™
 date: 2021-07-02 21:12:00 Z
 position: 0
+Images:
+- Fullwidth-image: "/uploads/Madyfit-cover-image.jpg"
 Expertise:
 - Skill: |-
     Brand Identity
