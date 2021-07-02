@@ -10,11 +10,18 @@ collections:
     output: true
     Cover Image:
     Images:
+<<<<<<< HEAD
     - Fullwidth-image:
     - Half-Image-left:
       Half-image-right:
     - Image:
     Project Description:
+=======
+    - Fullwidth-image: 
+    - Half-Image-left: 
+      Half-image-right: 
+    - Image: "/uploads/NL-postcards-24.jpg"
+>>>>>>> 90e873b403a963ac1ecc8ff0046fa55fdc1a1527
     Expertise:
     - Skill:
   uploads:
