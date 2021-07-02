@@ -8,19 +8,18 @@ collections:
   projects:
     title: Projects
     output: true
-    Cover Image:
     Images:
-    - Fullwidth-image:
-    - Half-Image-left:
-      Half-image-right:
-    - Image:
+    - Fullwidth-image: 
+    - Half-Image-left: 
+      Half-image-right: 
+    - Image: 
     Project Description:
-    - Fullwidth-image:
-    - Half-Image-left:
-      Half-image-right:
-    - Image:
+    - Fullwidth-image: 
+    - Half-Image-left: 
+      Half-image-right: 
+    - Image: 
     Expertise:
-    - Skill:
+    - Skill: 
   uploads:
     title: Uploads
     output: true
