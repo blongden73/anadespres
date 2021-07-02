@@ -6,9 +6,7 @@ Images:
 - Fullwidth-image: "/uploads/NL-Brochure.jpg"
 - Half-Image: "/uploads/Nicolas%20Laisne%20(port)-09.jpg"
   Half-image: "/uploads/Nicolas%20Laisne%20(port)-08.jpg"
-- Fullwidth-image: 
-  Image: 
-  Half-image: 
+- Half-image: "/uploads/Nicolas%20Laisne%20(port)-15.jpg"
 - Fullwidth-image: 
   Image: 
   Half-image: 
