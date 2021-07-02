@@ -4,23 +4,14 @@ date: 2021-05-07 18:07:00 Z
 Images:
 - Fullwidth-image: "/uploads/NL-big-images-01.jpg"
 - Image: "/uploads/NL-Brochure.jpg"
-- Half-left-image: "/uploads/Nicolas%20Laisne%20(port)-09.jpg"
-  Half-right-image: "/uploads/Nicolas%20Laisne%20(port)-08.jpg"
-- Image: 
-  Half-left-image: "/uploads/Nicolas%20Laisne%20(port)-13.jpg"
-  Half-right-image: "/uploads/Nicolas%20Laisne%20(port)-15.jpg"
-- Image: "/uploads/NL-postcards-24.jpg"
-- Fullwidth-image: 
-  Image: 
-  Half-left-image: 
-- Fullwidth-image: 
-  Image: 
-  Half-left-image: 
-  Half-right-image: 
-- Fullwidth-image: 
-  Image: 
-  Half-left-image: 
-  Half-right-image: 
+- Half-left-image: "/uploads/Nicolas-Laisne-portrait-brochure-2.gif"
+  Half-right-image: "/uploads/Nicolas-Laisne-portrait-brochure-1.gif"
+- Image: "/uploads/NL-illustrations.gif"
+- Image: "/uploads/NL-Pages%20gif.gif"
+- Half-left-image: "/uploads/anim-logo_NLA.mp4"
+  Half-right-image: "/uploads/Nicolas-Laisne-phone.jpg"
+- Image: "/uploads/NL-Social-media-details-19.jpg"
+- Image: "/uploads/NL-Website.gif"
 Expertise:
 - Skill: |-
     Brand Identity
