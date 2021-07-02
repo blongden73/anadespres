@@ -4,11 +4,11 @@ date: 2021-07-02 21:12:00 Z
 position: 0
 Images:
 - Fullwidth-image: "/uploads/Madyfit-cover-image.jpg"
-- Image: 
-- Image: 
-- Image: 
-- Image: 
-- Image: 
+- Image: "/uploads/Mdyfit%20image%207.jpg"
+- Image: "/uploads/Mdyfit%20image%208.jpg"
+- Image: "/uploads/Mdyfit%20image%209.jpg"
+- Image: "/uploads/Mdyfit%20image%2010.jpg"
+- Image: "/uploads/Madyfit-Street-Poster-2.jpg"
 - Image: 
 - Image: 
 - Image: 
