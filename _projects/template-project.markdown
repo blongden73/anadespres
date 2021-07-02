@@ -4,6 +4,8 @@ date: 2021-05-07 18:07:00 Z
 Cover Image: 
 Images:
 - Image: 
+  50-50-Image: 
+  Fullwidth-image: 
 Project Description: 
 Expertise:
 - Skill: 
