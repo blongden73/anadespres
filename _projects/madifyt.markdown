@@ -4,6 +4,10 @@ date: 2021-07-02 21:12:00 Z
 position: 0
 Images:
 - Fullwidth-image: "/uploads/Madyfit-cover-image.jpg"
+- Image: 
+- Image: 
+- Half-left-image: "/uploads/Madyfit%20bandas%201.jpg"
+  Half-right-image: "/uploads/Madyfit%20bandas%202.jpg"
 Expertise:
 - Skill: |-
     Brand Identity
