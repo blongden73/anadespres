@@ -3,7 +3,7 @@ title: AlricGalindez Arqs.
 date: 2021-07-02 18:24:00 Z
 Images:
 - Fullwidth-image: "/uploads/Alric-Galindez-Identity%201920x1080.jpg"
-  Image: "/uploads/Alric-Website-Animation01.gif"
+- Image: "/uploads/Alric-Website-Animation01.gif"
 - Half-left-image: "/uploads/Alric%20Galindez%20Arqs%20mobile%20001-b807e6.jpg"
   Half-right-image: "/uploads/Alric%20Galindez%20Arqs%20mobile%20002-dd5022.jpg"
 - Image: "/uploads/Artboard-2a.jpg"
