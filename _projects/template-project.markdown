@@ -4,13 +4,16 @@ date: 2021-05-07 18:07:00 Z
 position: 2
 Images:
 - Fullwidth-image: "/uploads/NL-big-images-01.jpg"
-- Image: "/uploads/NL-Brochure.jpg"
-- Half-left-image: "/uploads/Nicolas-Laisne-portrait-brochure-2.gif"
+- Half-Image-left: 
+  Half-image-right: 
+  Image: "/uploads/NL-Brochure.jpg"
+- Image: 
+  Half-left-image: "/uploads/Nicolas-Laisne-portrait-brochure-2.gif"
   Half-right-image: "/uploads/Nicolas-Laisne-portrait-brochure-1.gif"
 - Image: "/uploads/NL-illustrations.gif"
 - Image: "/uploads/NL-Pages%20gif.gif"
 - Half-left-image: "/uploads/anim-logo_NLA.mp4"
-  Half-right-image: "/uploads/Nicolas-Laisne-phone.jpg"
+  Half-right-image: "/uploads/Nicolas-Laisne-totebag2.jpg"
 - Image: "/uploads/NL-Social-media-details-19.jpg"
 - Image: "/uploads/NL-Website.gif"
 Expertise:
