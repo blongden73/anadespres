@@ -2,9 +2,9 @@
 title: Nicolas Laisne
 date: 2021-05-07 18:07:00 Z
 Images:
-- Fullwidth-image: "/uploads/NL-Brochure.jpg"
-- Half-Image-left: 
-  Half-left-image: "/uploads/Nicolas%20Laisne%20(port)-09.jpg"
+- Fullwidth-image: "/uploads/NL-big-images-01.jpg"
+- Image: "/uploads/NL-Brochure.jpg"
+- Half-left-image: "/uploads/Nicolas%20Laisne%20(port)-09.jpg"
   Half-right-image: "/uploads/Nicolas%20Laisne%20(port)-08.jpg"
 - Image: 
   Half-left-image: "/uploads/Nicolas%20Laisne%20(port)-13.jpg"
@@ -21,6 +21,14 @@ Images:
   Image: 
   Half-left-image: 
   Half-right-image: 
+Expertise:
+- Skill: |-
+    Brand Identity
+    Year 2020
+    UXUI, Branding, Design
+    Taking Place: Paris, France
+
+    Made at Twentyfive Studio / Ariel DiLisio / Nicolás Laisne / Sollerto Digital Agency
 Cover Image: "/uploads/NL-big-images-01-f7ac58.jpg"
 ---
 
