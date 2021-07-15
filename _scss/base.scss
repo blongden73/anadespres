@@ -57,6 +57,11 @@ h1 {
   font-weight: 100;
 }
 
+h4 {
+  font-family: 'Gatwick';
+  font-weight: 400;
+}
+
 a {
   color: inherit;
   text-decoration: none;
@@ -67,7 +72,25 @@ a {
 }
 
 .header-imager {
-  height: 100vh;
+  height: 90vh;
+  position: relative;
+  margin-bottom: 60px;
+}
+
+.header-image-container {
+  position: absolute;
+  top: 42%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 800px;
+  height: 800px;
+  background-color: black;
+}
+
+.header-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 .ad-header {

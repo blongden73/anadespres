@@ -4,8 +4,25 @@ layout: default
 
 <div class="header-imager">
   {% assign headerText = page.content %}
+  <div class="header-image-container">
+    {% for project in site.projects %}
+      {% for image in project.Images %}
+        
+      {% endfor %}
+    {% endfor%}
+  </div>
   <div class="header-text">
-    <h1>{{headerText}}</h1>
+    <h1>{{headerText | markdownify}}</h1>
+  </div>
+  <div class="header-footer">
+    <div class="flex">
+      <div class="left">
+        <h4>Available for freelance</h4>
+      </div>
+      <div class="right">
+        <h4><a href="mailto:hola@anadespres.com">hola@anadespres.com</a><h4>
+      </div>
+    </div>
   </div>
 </div>
 
