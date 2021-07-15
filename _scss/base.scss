@@ -1,9 +1,82 @@
+@font-face {
+    font-family: 'Gatwick';
+    src: url('assets/Gatwick-Ultralight.woff2') format('woff2'),
+        url('assets/Gatwick-Ultralight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gatwick';
+    src: url('assets/Gatwick-Bold.woff2') format('woff2'),
+        url('assets/Gatwick-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gatwick';
+    src: url('assets/Gatwick-Regular.woff2') format('woff2'),
+        url('assets/Gatwick-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hatton';
+    src: url('assets/Hatton-Medium.woff2') format('woff2'),
+        url('assets/Hatton-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hatton';
+    src: url('assets/Hatton-Bold.woff2') format('woff2'),
+        url('assets/Hatton-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hatton';
+    src: url('assets/Hatton-Light.woff2') format('woff2'),
+        url('assets/Hatton-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+h1 {
+  font-family: 'Hatton';
+  font-weight: 100;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.ad-logo {
+  font-family: 'Gatwick';
+}
+
 .header-imager {
   height: 100vh;
 }
 
+.ad-header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 .ad-wrapper {
-  max-width: 1800px;
+  max-width: 98%;
   margin-left: auto;
   margin-right: auto;
 
@@ -21,4 +94,8 @@
   & > img {
     width: 48%;
   }
+}
+
+.header-text {
+  max-width: 800px;
 }

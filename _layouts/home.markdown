@@ -2,7 +2,12 @@
 layout: default
 ---
 
-<div class="header-imager"></div>
+<div class="header-imager">
+  {% assign headerText = page.content %}
+  <div class="header-text">
+    <h1>{{headerText}}</h1>
+  </div>
+</div>
 
 {% for project in site.projects %}
   <h1 class="project-title">{{project.title}}</h1>
