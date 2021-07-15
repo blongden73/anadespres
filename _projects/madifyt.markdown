@@ -27,7 +27,7 @@ Expertise:
     Taking Place: Paris, France
 
     Made at Twentyfive Studio / Ariel DiLisio / Nicolás Laisne
-Cover Image: "/uploads/Madyfit-cover-image.jpg"
+Cover Image: "/uploads/Madyfit%20bandas%202.jpg"
 ---
 
 Branding and identity for Nicolas Laisné Studio, a French architect studio that's quickly gaining international renown. The website and the visual identity evolved as the brand moved from a boutique studio to a global architects firm. 
