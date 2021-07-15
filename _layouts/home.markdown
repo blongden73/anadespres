@@ -6,9 +6,7 @@ layout: default
   {% assign headerText = page.content %}
   <div class="header-image-container">
     {% for project in site.projects %}
-      {% for image in project.Images %}
-        
-      {% endfor %}
+      <img src="{{project.['Cover Image']}}">
     {% endfor%}
   </div>
   <div class="header-text">
@@ -28,6 +26,9 @@ layout: default
 
 {% for project in site.projects %}
   <h1 class="project-title">{{project.title}}</h1>
+  <div class="project-description">
+    {{project.content}}
+  </div>
 
   {% for image in project.Images %}
     <img src="{{image.Fullwidth-image}}">

@@ -57,6 +57,12 @@ h1 {
   font-weight: 100;
 }
 
+p {
+  font-family: 'Hatton';
+  font-weight: 100;
+  font-size: 32px;
+}
+
 h4 {
   font-family: 'Gatwick';
   font-weight: 400;
@@ -72,19 +78,31 @@ a {
 }
 
 .header-imager {
-  height: 90vh;
+  height: 87vh;
   position: relative;
   margin-bottom: 60px;
 }
 
 .header-image-container {
   position: absolute;
-  top: 42%;
+  top: 44%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 800px;
   height: 800px;
-  background-color: black;
+
+  img {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    opacity: 0;
+    // transition: opacity ease-in-out 0.5s;
+
+    &.visible {
+      opacity: 1;
+    }
+  }
 }
 
 .header-footer {
@@ -130,5 +148,13 @@ a {
 }
 
 .header-text {
+  max-width: 800px;
+}
+
+.project-title {
+  font-size: 58px;
+}
+
+.project-description {
   max-width: 800px;
 }
