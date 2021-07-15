@@ -73,6 +73,16 @@ a {
 .ad-header {
   padding-top: 20px;
   padding-bottom: 20px;
+
+  ul {
+    list-style: none;
+    margin: 0;
+
+    li {
+      list-style: none;
+      font-family: 'Gatwick';
+    }
+  }
 }
 
 .ad-wrapper {
