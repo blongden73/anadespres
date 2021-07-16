@@ -17,7 +17,7 @@ Images:
 - Image: "/uploads/NL-Social-media-details-19.jpg"
 - Image: "/uploads/NL-Website.gif"
 Expertise:
-- Skill: |-
+- Skill text: |-
     Brand Identity
     Year 2020
     UXUI, Branding, Design
