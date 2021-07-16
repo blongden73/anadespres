@@ -160,3 +160,17 @@ a {
 .project-description {
   max-width: 800px;
 }
+
+.project-expertise {
+  p {
+    margin: 0;
+    font-family: 'Gatwick';
+    font-weight: 400;
+    font-size: 16px;
+    max-width: 470px;
+
+    &:last-child {
+      margin-top: 20px;
+    }
+  }
+}

@@ -29,13 +29,26 @@ layout: default
   <div class="project-description">
     {{project.content}}
   </div>
+  <div class="project-expertise">
+    {% for skill in project.Expertise %}
+      {{ skill.['Skill text'] | markdownify }}
+    {% endfor %}
+  </div>
 
   {% for image in project.Images %}
-    <img src="{{image.Fullwidth-image}}">
+    {% if image.Fullwidth-image %}
+      <img src="{{image.Fullwidth-image}}">
+    {% endif }
+    {% if image.Half-left-image or image.Half-right-image %}
     <div class="flex left-right">
-      <img src="{{image.Half-left-image}}">
-      <img src="{{image.Half-right-image}}">
+      {% if image.Half-left-image %}
+        <img src="{{image.Half-left-image}}">
+      {% enfif %}
+      {% if image.Half-left-image %}
+        <img src="{{image.Half-right-image}}">
+      {% enfif %}
     </div>
+    {% endif %}
     <img src="{{image.Image}}">
   {% endfor %}
 
