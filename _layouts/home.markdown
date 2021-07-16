@@ -43,10 +43,10 @@ layout: default
     <div class="flex left-right">
       {% if image.Half-left-image %}
         <img src="{{image.Half-left-image}}">
-      {% enfif %}
+      {% endif %}
       {% if image.Half-left-image %}
         <img src="{{image.Half-right-image}}">
-      {% enfif %}
+      {% endif %}
     </div>
     {% endif %}
     <img src="{{image.Image}}">
