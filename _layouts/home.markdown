@@ -38,7 +38,7 @@ layout: default
   {% for image in project.Images %}
     {% if image.Fullwidth-image %}
       <img src="{{image.Fullwidth-image}}">
-    {% endif }
+    {% endif %}
     {% if image.Half-left-image or image.Half-right-image %}
     <div class="flex left-right">
       {% if image.Half-left-image %}
