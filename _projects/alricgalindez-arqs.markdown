@@ -14,7 +14,7 @@ Images:
 - Image: "/uploads/Artboard-3a.jpg"
 - Image: "/uploads/Artboard-3b.jpg"
 Expertise:
-- Skill: |-
+- Skill text: |-
     Brand Identity
     Year 2020
     UXUI, Branding, Design
