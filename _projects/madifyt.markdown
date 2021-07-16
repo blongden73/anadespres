@@ -20,7 +20,7 @@ Images:
 - Half-left-image: "/uploads/Madyfit%20bandas%201.jpg"
   Half-right-image: "/uploads/Madyfit%20bandas%202.jpg"
 Expertise:
-- Skill: |-
+- Skill text: |-
     Brand Identity
     Year 2020
     UXUI, Branding, Design
