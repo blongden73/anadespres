@@ -22,10 +22,12 @@ Images:
 Expertise:
 - Skill text: |-
     Brand Identity
-    Year 2020
-    UXUI, Branding, Design
-    Taking Place: Paris, France
 
+    Year 2020
+
+    UXUI, Branding, Design
+
+    Taking Place: Paris, France
     Made at Twentyfive Studio / Ariel DiLisio / Nicolás Laisne
 Cover Image: "/uploads/Madyfit%20bandas%202.jpg"
 ---
