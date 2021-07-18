@@ -9,7 +9,7 @@ Images:
   Image: "/uploads/NL-Brochure.jpg"
 - Image: 
   Half-left-image: "/uploads/Nicolas-Laisne-portrait-brochure-2.gif"
-  Half-right-image: "/uploads/Nicolas-Laisne-portrait-brochure-1-ok.gif"
+  Half-right-image: 
 - Image: "/uploads/NL-illustrations.gif"
 - Image: "/uploads/NL-Pages%20gif.gif"
 - Half-left-image: "/uploads/anim-logo_NLA.mp4"
