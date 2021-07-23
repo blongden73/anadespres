@@ -36,6 +36,22 @@ function mouse(){
  }, 50));
 }
 
+function topscroll() {
+  console.log('top');
+  document.addEventListener('scroll', function(){
+    var tracker = document.querySelector('.tracker');
+    var position = tracker.getBoundingClientRect().top;
+    var toplink = document.querySelector('.top');
+    console.log(position);
+    if(position <= -300) {
+      toplink.classList.add('visible');
+    } else {
+      toplink.classList.remove('visible');
+    }
+  })
+}
+
 function init(){
   mouse();
+  topscroll();
 }init();

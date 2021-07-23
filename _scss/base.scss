@@ -52,6 +52,10 @@
     font-display: swap;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 h1 {
   font-family: 'Hatton';
   font-weight: 100;
@@ -108,9 +112,9 @@ a {
 }
 
 .header-footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
+  position: fixed;
+  bottom: 20px;
+  width: 94%;
 }
 
 .ad-header {
@@ -205,5 +209,14 @@ a {
       height: 100%;
       object-fit: cover;
     }
+  }
+}
+
+.top {
+  opacity: 0;
+  transition: all ease-in-out 0.5s;
+
+  &.visible {
+    opacity: 1;
   }
 }
