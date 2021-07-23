@@ -27,6 +27,13 @@ function mouse(){
     //   images[random].classList.add('visible');
     // }
  },50));
+ headerImage.addEventListener('mouseleave', _.debounce(function(){
+   var imageContainer = document.querySelector('.header-image-container');
+   var images = imageContainer.querySelectorAll('img');
+   for(i=0; i<images.length; i++){
+     images[i].classList.remove('visible');
+   }
+ }, 50));
 }
 
 function init(){
