@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class="tracker"></div>
 <div class="header-imager">
   {% assign headerText = page.content %}
