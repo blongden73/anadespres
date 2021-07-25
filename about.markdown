@@ -1,6 +1,9 @@
 ---
 title: About
 permalink: "/about/"
+Clients:
+- Name: Test client
+- Name: Another test client
 layout: about
 ---
 
