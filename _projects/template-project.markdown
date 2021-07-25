@@ -27,7 +27,9 @@ Expertise:
     Taking Place: Paris, France
 
     Made at Twentyfive Studio / Ariel DiLisio / Nicolás Laisne / Sollerto Digital Agency
-Cover Image: "/uploads/NL-big-images-01-f7ac58.jpg"
+Cover Image:
+- Image: "/uploads/NL-Brochure.jpg"
+- Image: "/uploads/Nicolas-Laisne-totebag2.jpg"
 ---
 
 Branding and identity for Nicolas Laisné Studio, a French architect studio that's quickly gaining international renown. The website and the visual identity evolved as the brand moved from a boutique studio to a global architects firm. 
