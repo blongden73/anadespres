@@ -32,7 +32,7 @@ Expertise:
 Cover Image:
 - Image: "/uploads/Madyfit%20bandas%202.jpg"
 - Image: "/uploads/Mady%20Stripes%201.jpg"
-layout: about
+layout: page
 ---
 
 Branding and identity for Nicolas Laisné Studio, a French architect studio that's quickly gaining international renown. The website and the visual identity evolved as the brand moved from a boutique studio to a global architects firm. 
