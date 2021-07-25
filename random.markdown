@@ -8,5 +8,6 @@ Images:
 - Image: "/uploads/NL-Social-media-details-19.jpg"
 - Image: "/uploads/Mdyfit%20image%2010.jpg"
 - Image: "/uploads/Madyfit-Street-Poster-2.jpg"
+layout: random
 ---
 
