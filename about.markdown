@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-layout: page
+layout: about
 ---
 
 # Art Director, Visual UXUI Designer, Experience Creator and Art Observer focused in Real Estate, Architecture and Luxury brands.
