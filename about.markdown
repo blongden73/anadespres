@@ -4,6 +4,11 @@ permalink: "/about/"
 Clients:
 - Name: Test client
 - Name: Another test client
+Featured:
+- Title: Test Feature
+  Link: www.test.org
+- Title: Another test
+  Link: www.testing.co.uk
 layout: about
 ---
 
