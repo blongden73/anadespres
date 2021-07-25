@@ -17,24 +17,24 @@ defaults:
     type: projects
   values:
     Images:
-    - Fullwidth-image:
-    - Half-Image-left:
-      Half-image-right:
-    - Image:
+    - Fullwidth-image: 
+    - Half-Image-left: 
+      Half-image-right: 
+    - Image: 
     Project Description:
-    - Fullwidth-image:
-    - Half-Image-left:
-      Half-image-right:
-    - Image:
+    - Fullwidth-image: 
+    - Half-Image-left: 
+      Half-image-right: 
+    - Image: 
     Expertise:
-    - Skill text:
+    - Skill text: 
     Cover Image:
-      - Image: 
+    - Image: 
 email: your-email@example.com
 description: Art Director, Visual UXUI Designer, Experience Creator and Art Observer
   focused in Real Estate, Architecture and Luxury brands.
-baseurl:
-url:
+baseurl: 
+url: 
 twitter_username: jekyllrb
 github_username: jekyll
 theme: minima
