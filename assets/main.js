@@ -26,7 +26,7 @@ function mouse(){
     //   images[i].classList.remove('visible');
     //   images[random].classList.add('visible');
     // }
- },50));
+ },40));
  headerImage.addEventListener('mouseleave', _.debounce(function(){
    var imageContainer = document.querySelector('.header-image-container');
    var images = imageContainer.querySelectorAll('img');
