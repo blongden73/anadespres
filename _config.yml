@@ -20,16 +20,11 @@ defaults:
     - Fullwidth-image:
     - Half-Image-left:
       Half-image-right:
-    - Image:
-    Project Description:
-    - Fullwidth-image:
-    - Half-Image-left:
-      Half-image-right:
-    - Image:
+    - Image:      
     Expertise:
     - Skill text:
     Cover Image:
-      - Image: 
+      - Image:
 email: your-email@example.com
 description: Art Director, Visual UXUI Designer, Experience Creator and Art Observer
   focused in Real Estate, Architecture and Luxury brands.
