@@ -7,8 +7,11 @@ layout: default
   {% assign headerText = page.content %}
   <div class="header-image-container">
     {% for project in site.projects %}
-      <img src="{{project.['Cover Image']}}">
-    {% endfor%}
+      {% assign cover = project.['Cover Image'] %}
+      {% for image in cover %}
+        <img src="{{image.Image}}">
+      {% endfor %}
+    {% endfor %}
   </div>
   <div class="header-text">
     <h1>{{headerText | markdownify}}</h1>

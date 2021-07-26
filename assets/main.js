@@ -51,7 +51,31 @@ function topscroll() {
   })
 }
 
+function random() {
+  document.addEventListener('DOMContentLoaded', function(e) {
+    document.addEventListener('scroll', function(e) {
+        let documentHeight = document.body.scrollHeight;
+        let currentScroll = window.scrollY + window.innerHeight;
+        // When the user is [modifier]px from the bottom, fire the event.
+        let modifier = 0;
+        if(currentScroll + modifier > documentHeight) {
+            console.log('You are at the bottom!')
+            window.scrollTo({
+              top: 0,
+              left: 0,
+              behavior: 'auto'
+            });
+        }
+    })
+})
+}
+
 function init(){
-  mouse();
-  topscroll();
+  if(document.querySelector('.header-imager')) {
+    mouse();
+    topscroll();
+  }
+  if(document.querySelector('.Loop')) {
+    random();
+  }
 }init();

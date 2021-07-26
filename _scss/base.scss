@@ -85,7 +85,10 @@ h1 {
 p {
   font-family: 'Hatton';
   font-weight: 100;
-  font-size: 32px;
+  font-size: 25px;
+  @include mq('desktop') {
+    font-size: 32px;
+  }
 }
 
 h4 {
@@ -113,8 +116,12 @@ a {
   top: 44%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 800px;
+  width: 100%;
   height: 800px;
+
+  @include mq('desktop') {
+    width: 800px;
+  }
 
   img {
     width: 100%;
@@ -136,6 +143,22 @@ a {
   position: fixed;
   bottom: 20px;
   width: 94%;
+
+  .flex {
+    flex-direction: column;
+
+    @include mq('desktop') {
+      flex-direction: row;
+    }
+  }
+
+  h4 {
+    margin: 0;
+    
+    @include mq('desktop') {
+      margin: inherit;
+    }
+  }
 }
 
 .ad-header {
@@ -149,6 +172,20 @@ a {
     li {
       list-style: none;
       font-family: 'Gatwick';
+    }
+  }
+}
+
+.ad-menu {
+  ul {
+    display: flex;
+
+    li {
+      margin-right: 40px;
+
+      &:last-child {
+        margin-right: 0;
+      }
     }
   }
 }
@@ -175,7 +212,11 @@ a {
 }
 
 .header-text {
-  max-width: 800px;
+  max-width: 100%;
+
+  @include mq('desktop') {
+    max-width: 800px;
+  }
 }
 
 .ad-project-wrapper {
@@ -183,7 +224,11 @@ a {
 }
 
 .project-title {
-  font-size: 70px;
+  font-size: 50px;
+
+  @include mq('desktop') {
+    font-size: 70px;
+  }
 }
 
 .project-description {
@@ -239,5 +284,69 @@ a {
 
   &.visible {
     opacity: 1;
+  }
+}
+
+.about {
+  padding-bottom: 100px;
+  background-color: #DFD9D2;
+  h1 {
+    font-size: 70px;
+  }
+
+  .header-imager {
+    height: auto;
+  }
+}
+
+.about-page-wrapper {
+  max-width: 1200px;
+  margin-bottom: 100px;
+}
+
+.ad-three-col {
+  display: flex;
+  justify-content:space-between;
+  margin-bottom: 100px;
+  font-family: 'Gatwick';
+
+  a {
+    border-bottom: 1px solid rgba(0,0,0,0.5);
+    &:hover {
+      border-bottom: 1px solid #121212;
+    }
+  }
+
+  h2 {
+    font-family: 'Hatton';
+    font-weight: 100;
+    font-size: 32px;
+  }
+
+  & > * {
+    width: 32%;
+
+    div {
+      margin-bottom: 8px;
+    }
+  }
+}
+
+.random {
+  padding-bottom: 100px;
+  background-color: #EDE9DD;
+}
+
+.random-wrapper  {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  & > * {
+    width: 100%;
+
+    @include mq('desktop') {
+      width: 30%;
+    }
   }
 }
