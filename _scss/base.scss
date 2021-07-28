@@ -47,28 +47,19 @@ $breakpoints: (
 }
 
 @font-face {
-    font-family: 'Hatton';
-    src: url('assets/Hatton-Medium.woff2') format('woff2'),
-        url('assets/Hatton-Medium.woff') format('woff');
-    font-weight: 500;
+    font-family: 'Elgoc';
+    src: url('assets/Elgoc-Regular.woff2') format('woff2'),
+        url('assets/Elgoc-Regular.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hatton';
-    src: url('assets/Hatton-Bold.woff2') format('woff2'),
-        url('assets/Hatton-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Hatton';
-    src: url('assets/Hatton-Light.woff2') format('woff2'),
-        url('assets/Hatton-Light.woff') format('woff');
-    font-weight: 300;
+    font-family: 'Elgoc';
+    src: url('assets/Elgoc-Thin.woff2') format('woff2'),
+        url('assets/Elgoc-Thin.woff') format('woff');
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
@@ -78,13 +69,13 @@ html {
 }
 
 h1 {
-  font-family: 'Hatton';
-  font-weight: 100;
+  font-family: 'Elgoc';
+  font-weight: 400;
 }
 
 p {
-  font-family: 'Hatton';
-  font-weight: 100;
+  font-family: 'Elgoc';
+  font-weight: 400;
   font-size: 25px;
   @include mq('desktop') {
     font-size: 32px;
@@ -154,7 +145,7 @@ a {
 
   h4 {
     margin: 0;
-    
+
     @include mq('desktop') {
       margin: inherit;
     }
@@ -197,8 +188,6 @@ a {
 
   img {
     width: 100%;
-    margin-bottom: 30px;
-    margin-top: 30px;
   }
 }
 
@@ -211,11 +200,18 @@ a {
   }
 }
 
-.header-text {
+.header-text:not(.about-page-wrapper) {
   max-width: 100%;
+  text-align: center;
 
-  @include mq('desktop') {
-    max-width: 800px;
+  h1 {
+    p {
+      font-size: 28px;
+
+      @include mq('desktop') {
+        font-size: 4vw
+      }
+    }
   }
 }
 
@@ -257,9 +253,12 @@ a {
   }
 }
 
-.left-right {
+.image-wrapper {
+  margin-top: 80px;
+}
 
-  margin-top: 60px;
+.left-right {
+  margin-top: 80px;
 
   img {
     margin-bottom: 0;
@@ -291,7 +290,11 @@ a {
   padding-bottom: 100px;
   background-color: #DFD9D2;
   h1 {
-    font-size: 70px;
+    font-size: 45px;
+
+    @include mq('desktop') {
+      font-size: 70px;
+    }
   }
 
   .header-imager {
@@ -309,6 +312,11 @@ a {
   justify-content:space-between;
   margin-bottom: 100px;
   font-family: 'Gatwick';
+  flex-direction: column;
+
+  @include mq('desktop') {
+    flex-direction: row;
+  }
 
   a {
     border-bottom: 1px solid rgba(0,0,0,0.5);
@@ -318,8 +326,8 @@ a {
   }
 
   h2 {
-    font-family: 'Hatton';
-    font-weight: 100;
+    font-family: 'Elgoc';
+    font-weight: 400;
     font-size: 32px;
   }
 

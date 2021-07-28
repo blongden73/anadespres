@@ -9,7 +9,7 @@ layout: default
     {% for project in site.projects %}
       {% assign cover = project.['Cover Image'] %}
       {% for image in cover %}
-        <img src="{{image.Image}}">
+        <img loading=lazy src="{{image.Image}}">
       {% endfor %}
     {% endfor %}
   </div>
@@ -45,13 +45,15 @@ layout: default
 
     {% for image in project.Images %}
       {% if image.Fullwidth-image %}
-        <img src="{{image.Fullwidth-image}}">
+      <div class="image-wrapper">
+        <img loading=lazy src="{{image.Fullwidth-image}}">
+      </div>
       {% endif %}
       {% if image.Half-left-image or image.Half-right-image %}
       <div class="flex left-right">
         {% if image.Half-left-image %}
           {% unless image.Half-left-image contains '.mp4' %}
-          <img src="{{image.Half-left-image}}">
+          <img loading=lazy src="{{image.Half-left-image}}">
           {% else %}
           <div class="video-wrapper">
             <video autoplay loop playsinline muted width="320" height="240">
@@ -63,7 +65,7 @@ layout: default
         {% endif %}
         {% if image.Half-left-image %}
           {% unless image.Half-right-image contains '.mp4' %}
-            <img src="{{image.Half-right-image}}">
+            <img loading=lazy src="{{image.Half-right-image}}">
             {% else %}
             <div class="video-wrapper">
               <video autoplay loop playsinline muted width="320" height="240">
@@ -75,7 +77,11 @@ layout: default
         {% endif %}
       </div>
       {% endif %}
-      <img src="{{image.Image}}">
+      {% if image.Image %}
+      <div class="image-wrapper">
+        <img loading=lazy src="{{image.Image}}">
+      </div>
+      {% endif %}
     {% endfor %}
   </div>
 {% endfor %}
