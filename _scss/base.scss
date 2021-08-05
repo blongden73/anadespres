@@ -207,6 +207,7 @@ a {
   h1 {
     p {
       font-size: 28px;
+      text-transform: uppercase;
 
       @include mq('desktop') {
         font-size: 4vw
