@@ -21,8 +21,8 @@ $breakpoints: (
 }
 @font-face {
     font-family: 'Gatwick';
-    src: url('assets/Gatwick-Ultralight.woff2') format('woff2'),
-        url('assets/Gatwick-Ultralight.woff') format('woff');
+    src: url('../assets/Gatwick-Ultralight.woff2') format('woff2'),
+        url('../assets/Gatwick-Ultralight.woff') format('woff');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -30,8 +30,8 @@ $breakpoints: (
 
 @font-face {
     font-family: 'Gatwick';
-    src: url('assets/Gatwick-Bold.woff2') format('woff2'),
-        url('assets/Gatwick-Bold.woff') format('woff');
+    src: url('../assets/Gatwick-Bold.woff2') format('woff2'),
+        url('../assets/Gatwick-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -39,8 +39,8 @@ $breakpoints: (
 
 @font-face {
     font-family: 'Gatwick';
-    src: url('assets/Gatwick-Regular.woff2') format('woff2'),
-        url('assets/Gatwick-Regular.woff') format('woff');
+    src: url('../assets/Gatwick-Regular.woff2') format('woff2'),
+        url('../assets/Gatwick-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -48,18 +48,18 @@ $breakpoints: (
 
 @font-face {
     font-family: 'Elgoc';
-    src: url('assets/Elgoc-Regular.woff2') format('woff2'),
-        url('assets/Elgoc-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Elgoc';
-    src: url('assets/Elgoc-Thin.woff2') format('woff2'),
-        url('assets/Elgoc-Thin.woff') format('woff');
+    src: url('../assets/Elgoc-Regular.woff2') format('woff2'),
+        url('../assets/Elgoc-Regular.woff') format('woff');
     font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elgoc';
+    src: url('../assets/Elgoc-Thin.woff2') format('woff2'),
+        url('../assets/Elgoc-Thin.woff') format('woff');
+    font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
