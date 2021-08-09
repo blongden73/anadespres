@@ -91,7 +91,7 @@ p {
   font-weight: 400;
   font-size: 25px;
   font-variant-ligatures: none;
-  
+
   @include mq('desktop') {
     font-size: 32px;
   }
@@ -429,6 +429,10 @@ a {
   background-color: #DFD9D2;
   transition: all ease-in-out 0.2s;
 
+  @include mq('desktop') {
+    display: none;
+  }
+
   &.clicked {
     pointer-events: all;
     visibility: visible;
@@ -457,6 +461,10 @@ a {
   top: 25px;
   right: 10px;
   z-index: 2000;
+
+  @include mq('desktop') {
+    display: none;
+  }
 
   .bar {
     height: 1px;
