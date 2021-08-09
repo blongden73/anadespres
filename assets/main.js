@@ -70,6 +70,18 @@ function random() {
 })
 }
 
+function menu(){
+  var menu = document.querySelector('.ad-mobile-menu');
+  var hamburger = document.querySelector('.ad-hamburger');
+
+  hamburger.addEventListener('click', function(){
+    this.classList.toggle('clicked');
+    menu.classList.toggle('clicked');
+  });
+}
+
+
+
 function init(){
   if(document.querySelector('.header-imager')) {
     mouse();
@@ -78,4 +90,5 @@ function init(){
   if(document.querySelector('.Loop')) {
     random();
   }
+  menu();
 }init();
