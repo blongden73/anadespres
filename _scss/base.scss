@@ -450,9 +450,14 @@ a {
     text-align: center;
     font-family: 'Elgoc';
     font-weight: 400;
-    font-size: 72px;
+    font-size: 52px;
+    text-transform: uppercase;
     transform: translateY(100px);
     transition: all ease-in-out 0.2s;
+
+    li {
+      margin-bottom: 60px;
+    }
   }
 }
 
