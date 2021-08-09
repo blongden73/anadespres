@@ -61,6 +61,7 @@ $breakpoints: (
     font-display: block;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    font-variant-ligatures: none;
 }
 
 @font-face {
@@ -72,6 +73,7 @@ $breakpoints: (
     font-display: block;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    font-variant-ligatures: none;
 }
 
 html {
@@ -81,12 +83,15 @@ html {
 h1 {
   font-family: 'Elgoc';
   font-weight: 400;
+  font-variant-ligatures: none;
 }
 
 p {
   font-family: 'Elgoc';
   font-weight: 400;
   font-size: 25px;
+  font-variant-ligatures: none;
+  
   @include mq('desktop') {
     font-size: 32px;
   }
