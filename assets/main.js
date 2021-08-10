@@ -1,6 +1,7 @@
 console.log('hola ani');
 var i = -1;
 var headerImage = document.querySelector('.header-imager');
+var page = document.querySelector('.home');
 
 function mouse(){
   headerImage.addEventListener('mousemove', _.debounce(function(){
@@ -8,6 +9,9 @@ function mouse(){
     var images = imageContainer.querySelectorAll('img');
     console.log(images);
     var random = Math.floor(Math.random() * images.length);
+    if(!imageContainer.classList.contains('moving')) {
+      imageContainer.classList.add('moving')
+    }
     console.log('im moving', random);
     i ++
     console.log(i);
@@ -29,11 +33,20 @@ function mouse(){
  },25));
  headerImage.addEventListener('mouseleave', _.debounce(function(){
    var imageContainer = document.querySelector('.header-image-container');
+   if(imageContainer.classList.contains('moving')) {
+     imageContainer.classList.remove('moving')
+   }
    var images = imageContainer.querySelectorAll('img');
    for(i=0; i<images.length; i++){
      images[i].classList.remove('visible');
    }
  }, 50));
+ page.addEventListener('click', function(){
+   var imageContainer = document.querySelector('.header-image-container');
+   if(imageContainer.classList.contains('moving')) {
+     imageContainer.classList.remove('moving')
+   }
+ });
 }
 
 function topscroll() {
