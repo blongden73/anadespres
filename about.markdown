@@ -35,7 +35,7 @@ Clients:
 Featured:
 - 
 - Title: Sites We Like
-  Link: target="_blank">http://www.designmadeingermany.de/sites-we-like/</a>
+  Link: www.designmadeingermany.de/sites-we-like
 layout: about
 ---
 
