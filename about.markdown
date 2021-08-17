@@ -2,7 +2,7 @@
 title: About
 permalink: "/about/"
 Clients:
-- Title: Twentyfive™
+- Name: Twentyfive™
   Link: target="_blank">betwentyfive.com</a>
 - Name: Hellow Festival
 - Name: TEC Monterrey
