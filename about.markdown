@@ -10,32 +10,32 @@ Clients:
 - Name: Nettare™ Italy
 - Title: Nina Kendosa
   Link: www.ninakendosa.com
-- Link: www.ytech.com
-  Title: Ytech
-- Link: https://cseh.ar/
-  Title: CSEH
-- Link: https://pactta.app/
-  Title: Pactta App
-- Link: https://www.mecharestaurant.com.ar/
-  Title: Mecha Restaurant
-- Link: www.birot.com
-  Title: Birot
-- Link: https://www.cbsc.com.ar/
-  Title: CBSC Developers
-- Link: https://ipesmi.edu.ar/
-  Title: Ipesmi
-- Link: https://alricgalindez.com/en/expos-conferences/
-  Title: AlricGalindez Architects
-- Link: http://mirandabosch.com/
-  Title: Miranda Bosch
-- Link: https://anima-domi.ar/
-  Title: Anima Domi
-- Link: https://w-aguero.com.ar/
-  Title: W-aguero
+- Title: Ytech
+  Link: www.ytech.com
+- Title: CSEH
+  Link: https://cseh.ar/
+- Title: Pactta App
+  Link: https://pactta.app/
+- Title: Mecha Restaurant
+  Link: https://www.mecharestaurant.com.ar/
+- Title: Birot
+  Link: www.birot.com
+- Title: CBSC Developers
+  Link: https://www.cbsc.com.ar/
+- Title: Ipesmi
+  Link: https://ipesmi.edu.ar/
+- Title: AlricGalindez Architects
+  Link: https://alricgalindez.com/en/expos-conferences/
+- Title: Miranda Bosch
+  Link: http://mirandabosch.com/
+- Title: Anima Domi
+  Link: https://anima-domi.ar/
+- Title: W-aguero
+  Link: https://w-aguero.com.ar/
 Featured:
 - 
 - Title: Sites We Like
-  Link: http://www.designmadeingermany.de/sites-we-like/
+  Link: target="_blank">http://www.designmadeingermany.de/sites-we-like/</a>
 layout: about
 ---
 
