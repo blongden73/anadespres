@@ -2,7 +2,7 @@
 title: About
 permalink: "/about/"
 Clients:
-- Name: Test client
+- Twentyfive™: www.twentyfive.com
 - Name: Another test client
 Featured:
 - Title: Test Feature
