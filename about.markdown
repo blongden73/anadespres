@@ -34,8 +34,8 @@ Clients:
   Link: https://w-aguero.com.ar/
 Featured:
 - 
-- Title: Test Feature
-  Link: www.test.org
+- Title: Sites We Like
+  Link: http://www.designmadeingermany.de/sites-we-like/
 layout: about
 ---
 
