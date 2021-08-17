@@ -1,9 +1,6 @@
 ---
 title: About
 permalink: "/about/"
-Featured in:
-- Title: Sites We Like
-  Link: www.designmadeingermany.de/sites-we-like
 Clients:
 - Title: Twentyfive™
   Link: target="_blank">betwentyfive.com</a>
@@ -35,6 +32,9 @@ Clients:
   Link: https://anima-domi.ar/
 - Title: W-aguero
   Link: https://w-aguero.com.ar/
+Featured in:
+- Title: Sites We Like
+  Link: www.designmadeingermany.de/sites-we-like
 layout: about
 ---
 
