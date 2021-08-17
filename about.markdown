@@ -2,36 +2,36 @@
 title: About
 permalink: "/about/"
 Clients:
-- Name: Twentyfive™
+- Title: Twentyfive™
   Link: https://betwentyfive.com/
 - Name: Hellow Festival
 - Name: TEC Monterrey
 - Name: 500Startups
 - Name: Nettare™ Italy
-- Name: Nina Kendosa
+- Title: Nina Kendosa
   Link: www.ninakendosa.com
-- Name: Ytech
-  Link: www.ytech.com
-- Name: CSEH
-  Link: https://cseh.ar/
-- Name: Pactta App
-  Link: https://pactta.app/
-- Name: Mecha Restaurant
-  Link: https://www.mecharestaurant.com.ar/
-- Name: Birot
-  Link: www.birot.com
-- Name: CBSC Developers
-  Link: https://www.cbsc.com.ar/
-- Name: Ipesmi
-  Link: https://ipesmi.edu.ar/
-- Name: AlricGalindez Architects
-  Link: https://alricgalindez.com/en/expos-conferences/
-- Name: Miranda Bosch
-  Link: http://mirandabosch.com/
-- Name: Anima Domi
-  Link: https://anima-domi.ar/
-- Name: W-aguero
-  Link: https://w-aguero.com.ar/
+- Link: www.ytech.com
+  Title: Ytech
+- Link: https://cseh.ar/
+  Title: CSEH
+- Link: https://pactta.app/
+  Title: Pactta App
+- Link: https://www.mecharestaurant.com.ar/
+  Title: Mecha Restaurant
+- Link: www.birot.com
+  Title: Birot
+- Link: https://www.cbsc.com.ar/
+  Title: CBSC Developers
+- Link: https://ipesmi.edu.ar/
+  Title: Ipesmi
+- Link: https://alricgalindez.com/en/expos-conferences/
+  Title: AlricGalindez Architects
+- Link: http://mirandabosch.com/
+  Title: Miranda Bosch
+- Link: https://anima-domi.ar/
+  Title: Anima Domi
+- Link: https://w-aguero.com.ar/
+  Title: W-aguero
 Featured:
 - 
 - Title: Sites We Like
