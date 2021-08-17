@@ -2,13 +2,40 @@
 title: About
 permalink: "/about/"
 Clients:
-- Twentyfive™: www.twentyfive.com
-- Name: Another test client
+- Name: Twentyfive™
+  Link: https://betwentyfive.com/
+- Name: Hellow Festival
+- Name: TEC Monterrey
+- Name: 500Startups
+- Name: Nettare™ Italy
+- Name: Nina Kendosa
+  Link: www.ninakendosa.com
+- Name: Ytech
+  Link: www.ytech.com
+- Name: CSEH
+  Link: https://cseh.ar/
+- Name: Pactta App
+  Link: https://pactta.app/
+- Name: Mecha Restaurant
+  Link: https://www.mecharestaurant.com.ar/
+- Name: Birot
+  Link: www.birot.com
+- Name: CBSC Developers
+  Link: https://www.cbsc.com.ar/
+- Name: Ipesmi
+  Link: https://ipesmi.edu.ar/
+- Name: AlricGalindez Architects
+  Link: https://alricgalindez.com/en/expos-conferences/
+- Name: Miranda Bosch
+  Link: http://mirandabosch.com/
+- Name: Anima Domi
+  Link: https://anima-domi.ar/
+- Name: W-aguero
+  Link: https://w-aguero.com.ar/
 Featured:
+- 
 - Title: Test Feature
   Link: www.test.org
-- Title: Another test
-  Link: www.testing.co.uk
 layout: about
 ---
 
