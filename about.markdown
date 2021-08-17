@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-Selected Clients:
+Featured in:
 - Title: Sites We Like
   Link: www.designmadeingermany.de/sites-we-like
 Clients:
