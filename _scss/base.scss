@@ -256,6 +256,13 @@ a {
   h1 {
     text-transform: uppercase;
   }
+  p {
+    line-height: 33px;
+
+      @include mq('desktop') {
+        line-height: 37px;
+      }
+  }
 }
 
 .ad-project-wrapper {
@@ -407,7 +414,7 @@ a {
     margin-bottom: 20px;
 
     @include mq('desktop') {
-      width: 30%;
+      width: 32.4%;
     }
   }
 }
