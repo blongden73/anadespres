@@ -30,7 +30,7 @@ function mouse(){
     //   images[i].classList.remove('visible');
     //   images[random].classList.add('visible');
     // }
- },25));
+ },35));
  headerImage.addEventListener('mouseleave', _.debounce(function(){
    var imageContainer = document.querySelector('.header-image-container');
    if(imageContainer.classList.contains('moving')) {
