@@ -2,16 +2,16 @@
 title: About
 permalink: "/about/"
 Clients:
-- Name: Twentyfive™
+- Title: Twentyfive™
   Link: betwentyfive.com
-- Name: Hellow Festival
-  Link: 
-- Name: TEC Monterrey
-  Link: 
-- Name: 500Startups
-  Link: 
-- Name: Nettare™ Italy
-  Link: 
+- Title: Hellow Festival
+  Link: betwentyfive.com
+- Title: TEC Monterrey
+  Link: betwentyfive.com
+- Title: 500Startups
+  Link: betwentyfive.com
+- Title: Nettare™ Italy
+  Link: betwentyfive.com
 - Title: Nina Kendosa
   Link: www.ninakendosa.com
 - Title: Ytech
