@@ -3,11 +3,15 @@ title: About
 permalink: "/about/"
 Clients:
 - Name: Twentyfive™
-  Link: target="_blank">betwentyfive.com</a>
+  Link: betwentyfive.com
 - Name: Hellow Festival
+  Link: 
 - Name: TEC Monterrey
+  Link: 
 - Name: 500Startups
+  Link: 
 - Name: Nettare™ Italy
+  Link: 
 - Title: Nina Kendosa
   Link: www.ninakendosa.com
 - Title: Ytech
@@ -32,7 +36,7 @@ Clients:
   Link: https://anima-domi.ar/
 - Title: W-aguero
   Link: https://w-aguero.com.ar/
-Featured in:
+Featured:
 - Title: Sites We Like
   Link: www.designmadeingermany.de/sites-we-like
 layout: about
