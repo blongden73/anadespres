@@ -125,9 +125,13 @@ a {
   width: 100%;
   height: 800px;
   z-index: 100;
+  visibility: hidden;
+  pointer-events: none;
 
   @include mq('desktop') {
     width: 800px;
+    visibility: visible;
+    pointer-events: all;
   }
 
   img {
@@ -400,7 +404,7 @@ a {
 
   & > * {
     width: 100%;
-    
+
     @include mq('desktop') {
       width: 32%;
     }
