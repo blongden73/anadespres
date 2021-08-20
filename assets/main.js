@@ -41,12 +41,14 @@ function mouse(){
      images[i].classList.remove('visible');
    }
  }, 50));
- page.addEventListener('click', function(){
-   var imageContainer = document.querySelector('.header-image-container');
-   if(imageContainer.classList.contains('moving')) {
-     imageContainer.classList.remove('moving')
-   }
- });
+ if(page){
+   page.addEventListener('click', function(){
+     var imageContainer = document.querySelector('.header-image-container');
+     if(imageContainer.classList.contains('moving')) {
+       imageContainer.classList.remove('moving')
+     }
+   });
+ }
 }
 
 function topscroll() {
