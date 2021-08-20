@@ -46,14 +46,14 @@ layout: default
     {% for image in project.Images %}
       {% if image.Fullwidth-image %}
       <div class="image-wrapper">
-        <img loading=lazy src="{{image.Fullwidth-image}}">
+        <img class="lazy image" loading=lazy data-src="{{image.Fullwidth-image}}">
       </div>
       {% endif %}
       {% if image.Half-left-image or image.Half-right-image %}
       <div class="flex left-right">
         {% if image.Half-left-image %}
           {% unless image.Half-left-image contains '.mp4' %}
-          <img loading=lazy src="{{image.Half-left-image}}">
+          <img class="lazy image" loading=lazy data-src="{{image.Half-left-image}}">
           {% else %}
           <div class="video-wrapper">
             <video autoplay loop playsinline muted width="320" height="240">
@@ -65,7 +65,7 @@ layout: default
         {% endif %}
         {% if image.Half-left-image %}
           {% unless image.Half-right-image contains '.mp4' %}
-            <img loading=lazy src="{{image.Half-right-image}}">
+            <img class="lazy image" loading=lazy data-src="{{image.Half-right-image}}">
             {% else %}
             <div class="video-wrapper">
               <video autoplay loop playsinline muted width="320" height="240">
@@ -79,7 +79,7 @@ layout: default
       {% endif %}
       {% if image.Image %}
       <div class="image-wrapper">
-        <img loading=lazy src="{{image.Image}}">
+        <img class="lazy image" loading=lazy data-src="{{image.Image}}">
       </div>
       {% endif %}
     {% endfor %}
