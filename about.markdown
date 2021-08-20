@@ -39,6 +39,10 @@ Clients:
 Featured:
 - Title: Sites We Like
   Link: www.designmadeingermany.de/sites-we-like
+The Dots Link: "#"
+Instagram Link: "#"
+Behance Link: "#"
+Illustration Link: "#"
 layout: about
 ---
 
