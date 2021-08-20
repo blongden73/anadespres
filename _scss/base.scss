@@ -399,7 +399,11 @@ a {
   }
 
   & > * {
-    width: 32%;
+    width: 100%;
+    
+    @include mq('desktop') {
+      width: 32%;
+    }
 
     div {
       margin-bottom: 8px;
