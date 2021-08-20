@@ -38,7 +38,7 @@ layout: default
     <h2>Selected clients</h2>
     {% assign clients = page.Clients %}
     {% for client in clients %}
-    <div>{{client.Name}}</div>
+    <div><a href="{{client.Link}}">{{client.Name}}</a></div>
     {% endfor %}
   </div>
   <div class="other-sites">
