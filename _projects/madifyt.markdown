@@ -25,14 +25,14 @@ Expertise:
 
     Year 2020
 
-    UXUI, Branding, Design
+    Branding Design, UXUI, Social Media
 
-    Taking Place: Paris, France
-    Made at Twentyfive Studio / Ariel DiLisio / Nicolás Laisne
+    Taking Place: Monterrey, Mexico
+    CREDITS: Puente Estudio / Daniel Ceballos
 Cover Image:
 - Image: "/uploads/Madyfit%20bandas%202.jpg"
 - Image: "/uploads/Mady%20Stripes%201.jpg"
 layout: page
 ---
 
-Branding and identity for Nicolas Laisné Studio, a French architect studio that's quickly gaining international renown. The website and the visual identity evolved as the brand moved from a boutique studio to a global architects firm. 
+Branding identity and UXUI identity for a Mexican fitness influencer. The project is led by Marijose García from Monterrey and focuses on growing buttocks with tailored meal plans, always taking care of physical and mental health. The project has followers all around the world and a resounding success on social networks such as TikTok and YouTube.
