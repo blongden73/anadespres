@@ -17,10 +17,11 @@ Expertise:
 - Skill text: |-
     Brand Identity
     Year 2020
-    UXUI, Branding, Design
-    Taking Place: Paris, France
+    UXUI, Branding Design
+    Taking Place: Buenos Aires & Bariloche, Argentina
 
-    Made at Twentyfive™ Studio / Ariel DiLisio / Nicolás Laisne / Sollerto Digital Agency
+    Made at Twentyfive™ Studio.
+    CREDITS: Ariel DiLisio / Santiago Alric / Carlos Galindez / Federico Lloveras / Sebastián Pöthe
 Cover Image:
 - Image: "/uploads/Alric-Galindez-Identity%201920x1080.jpg"
 - Image: "/uploads/Artboard-3a.jpg"
