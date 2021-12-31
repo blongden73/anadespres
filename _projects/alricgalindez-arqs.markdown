@@ -26,4 +26,6 @@ Cover Image:
 - Image: "/uploads/Artboard-3a.jpg"
 ---
 
-Branding and identity for Nicolas Laisné Studio, a French architect studio that's quickly gaining international renown. The website and the visual identity evolved as the brand moved from a boutique studio to a global architects firm. 
+UXUI identity for an Argentinian architecture studio founded in 1995 and led by architects Santiago Alric, Carlos Galindez, and Federico Lloveras. Its headquarters are located in Buenos Aires and Bariloche. The studio has a special interest in conceiving architecture as part of a landscape, understanding the landscape as both the natural and the urban or cultural.
+
+We create a minimal but strong layout using project photography and a particular color palette as the main element.
