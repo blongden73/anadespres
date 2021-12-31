@@ -35,4 +35,8 @@ Cover Image:
 layout: page
 ---
 
-Branding identity and UXUI identity for a Mexican fitness influencer. The fitness project is led by Marijose García from Monterrey and focuses on growing buttocks with tailored meal plans, always taking care of physical and mental health. The project has followers all around the world and a resounding success on social networks such as TikTok and Youtube.
+Branding identity and UXUI identity for a Mexican fitness influencer. The platform and project is led by Marijose García fitness influencer from Monterrey and focuses on women health, innovative exercises accompanied by tailored meal plans, always taking care of physical and mental health. The project and platform already have followers all around the world and a resounding success on social networks such as TikTok and Youtube.
+
+Branding Identity was created around women body, expressive movement and dynamism; focused on innovation, inspiration, and human body flexibility. 
+
+A mantra: ‘What moves us”. That which moves us INDIVIDUALLY and as a COLLECTIVE, like human beings. The desire to PROGRESS creating the best VERSION of US. The DESIRE that drives us, that moves us. 
