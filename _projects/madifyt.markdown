@@ -39,4 +39,4 @@ Branding identity and UXUI identity for a Mexican fitness influencer. The platfo
 
 Branding Identity was created around women's bodies, expressive movement, and dynamism; focused on innovation, inspiration, and human body flexibility. 
 
-A mantra: ‘What moves us”. That which moves us INDIVIDUALLY and as a COLLECTIVE, like human beings. The desire to PROGRESS creating the best VERSION of US. The DESIRE that drives us, that moves us. 
+A mantra: ‘What moves us”. That which moves us INDIVIDUALLY and as a COLLECTIVE, like human beings. The desire to PROGRESS creating the best VERSION of us. The DESIRE that drives us, that moves us. 
