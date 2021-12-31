@@ -22,11 +22,12 @@ Expertise:
 
     Year 2020
 
-    UXUI, Branding, Design
+    UXUI, Branding Design
 
     Taking Place: Paris, France
 
-    Made at Twentyfive Studio / Ariel DiLisio / Nicolás Laisne / Sollerto Digital Agency
+    Made at Twentyfive Studio.
+    CREDITS: Ariel Di Lisio / Nicolás Laisne / Sollerto Digital Agency
 Cover Image:
 - Image: "/uploads/NL-Brochure.jpg"
 - Image: "/uploads/Nicolas-Laisne-totebag2.jpg"
