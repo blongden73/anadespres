@@ -33,4 +33,9 @@ Cover Image:
 - Image: "/uploads/Nicolas-Laisne-totebag2.jpg"
 ---
 
-Branding and identity for Nicolas Laisné Studio, a French architect studio that's quickly gaining international renown. The website and the visual identity evolved as the brand moved from a boutique studio to a global architects firm. 
+Branding and identity for Nicolas Laisné Studio, a French architect studio that’s quickly gaining international renown. The firm develops urban planning, architecture, and interior design projects, from design to execution. The firm has taken part in a number of international events, including the VENICE BIENNALE IN 2021.
+
+Its achievements and current projects bear witness to its desire to open up architecture. To create more space for all, including nature, in ever denser cities. To cater to new habits in society, and the way they so rapidly evolving.
+
+The website and the visual identity evolved as the brand moved from a boutique studio to a global architects firm. Branding and UI were thought having in mind the particular identity of the firm projects. Non-orthogonal layouts, organic shapes, and open wide spaces.
+
