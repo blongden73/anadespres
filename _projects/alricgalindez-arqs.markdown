@@ -29,4 +29,4 @@ Cover Image:
 
 UXUI identity for an Argentinian architecture studio founded in 1995 and led by architects Santiago Alric, Carlos Galindez, and Federico Lloveras. Its headquarters are located in Buenos Aires and Bariloche. The studio has a special interest in conceiving architecture as part of a landscape, understanding the landscape as both the natural and the urban or cultural.
 
-We create a minimal but strong UXUI layout using photography and a particular color palette as the main element to stand out the studio projects.
+We create a minimal but strong UXUI layout using photography and a particular color palette as the main element, enhancing the studio projects.
