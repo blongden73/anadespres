@@ -1,5 +1,5 @@
 ---
-title: Madifyt™
+title: Madyfit™
 date: 2021-07-02 21:12:00 Z
 position: 0
 Images:
