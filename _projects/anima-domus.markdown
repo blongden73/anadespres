@@ -7,4 +7,4 @@ Images:
 layout: page
 ---
 
-Coming Soon.
+Coming Soon
