@@ -6,4 +6,4 @@ Images:
 - Fullwidth-image: "/uploads/000b-Home.jpg"
 ---
 
-Coming Soon
+Coming Soon.
