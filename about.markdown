@@ -5,13 +5,11 @@ Clients:
 - Title: Twentyfive™
   Link: betwentyfive.com
 - Title: Hellow Festival
-  Link: betwentyfive.com
+  Link: https://hellowfestival.com/
 - Title: TEC Monterrey
-  Link: betwentyfive.com
+  Link: https://tec.mx/es
 - Title: 500Startups
-  Link: betwentyfive.com
-- Title: Nettare™ Italy
-  Link: betwentyfive.com
+  Link: https://500.co/
 - Title: Nina Kendosa
   Link: www.ninakendosa.com
 - Title: Ytech
@@ -22,8 +20,6 @@ Clients:
   Link: https://pactta.app/
 - Title: Mecha Restaurant
   Link: https://www.mecharestaurant.com.ar/
-- Title: Birot
-  Link: www.birot.com
 - Title: CBSC Developers
   Link: https://www.cbsc.com.ar/
 - Title: Ipesmi
@@ -37,21 +33,30 @@ Clients:
 - Title: W-aguero
   Link: https://w-aguero.com.ar/
 Featured:
+- Title: Macrame.TV
+  Link: https://macrame.tv/ana-despres
+- Title: Vanschneider.com
+  Link: https://vanschneider.com/blog/design-in/design-in-argentina-featuring-twentyfive/
+- Title: YTECH
+  Link: https://ytech.com/people
 - Title: Sites We Like
   Link: www.designmadeingermany.de/sites-we-like
-The Dots Link: "#"
-Instagram Link: "#"
-Behance Link: "#"
-Illustration Link: "#"
+Instagram Link: "#anidespres"
+Behance Link: "#https://www.behance.net/anadespres"
+Illustration Link: "#aguaojugo"
 layout: about
 ---
 
-# Art Director, Visual UXUI Designer, Experience Creator, Digital Specialist, and Art Observer focused on Real Estate, Architecture, and Luxury brands. 
+# Art Director, Visual Designer, Luxury Real Estate + Architecture Branding Specialist
 
-Art Director, Visual and UXUI Designer for High-end brands. 12+ Years experience in Design for the Real Estate industry for Europe and LATAM markets. From 2013 to 2015 I worked as the Head of the Digital Department in Conway + Partners, International Branding Agency for the US Real State market. Since 2016 to date I am a Digital Creative Associate in Twentyfive™.
+Art Director and Visual Designer for High-end brands. 12+ Years experience in
+Design for the Real Estate industry for Europe and LATAM markets.
 
-I am currently working for my own Design firm for Real Estate and Fashion Industries for New York, Barcelona, Paris, Mexico, and Buenos Aires clients.
+From 2013 to 2015: She was the Head of the Digital Department of Conway + Partners
+International Branding Agency for the US Real State market.
 
-I am, also a co-founder in Puente Studio™ a conscious Design Studio for Leisure, Well-being, Fashion, and Art run by women for women based in London and Buenos Aires.
+Since 2016 she’s been a Digital Creative Associate at TwentyFive Studio™.
 
-I try to learn something from each experience to create new ones, waiting for the small changes and improvements to design a happier place to live, discover, enjoy, love, and be.
+Currently, she runs her own Design firm for Real Estate and Fashion Industries for clients in New York, Barcelona, Paris, Mexico, and Buenos Aires.
+
+In 2020 she founded Puente Studio™, a conscious Design Studio for Leisure, well-being, Fashion, and Art run by women for women based in London and Buenos Aires.
