@@ -1,6 +1,7 @@
 ---
 title: The Residences at 1428 Brickell
 date: 2023-07-20 13:52:00 Z
+position: 1
 Images:
 - Fullwidth-image: "/uploads/LIFESTYLE%201920x740.mp4"
 Expertise:

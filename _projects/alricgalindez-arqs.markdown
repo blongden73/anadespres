@@ -1,7 +1,7 @@
 ---
 title: AlricGalindez Arqs.
 date: 2021-07-02 18:24:00 Z
-position: 1
+position: 2
 Images:
 - Fullwidth-image: "/uploads/Alric-Galindez-Identity%201920x1080.jpg"
 - Half-Image-left: 
